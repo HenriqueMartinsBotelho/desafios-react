@@ -18,10 +18,17 @@
 
 body {
   color: rgb(var(--foreground-rgb));
+  color: white;
   background: linear-gradient(
       to bottom,
       transparent,
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
+}
+
+button {
+  padding: 4px 12px;
+  background-color: rgb(25, 81, 236);
+  border-radius: 10px;
 }
