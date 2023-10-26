@@ -16,7 +16,7 @@ export default function Home() {
 
   return (
     <main className="flex flex-col items-center p-24 bg-black min-h-screen">
-      <h1 className="text-3xl font-bold mb-8">100 Desafios React</h1>
+      <h1 className="text-3xl font-bold mb-8">30 Desafios React</h1>
       <table className="text-white">
         <thead>
           <tr>
